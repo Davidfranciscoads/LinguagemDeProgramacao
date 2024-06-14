@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/l3ex02/l3ex02.iml" filepath="$PROJECT_DIR$/l3ex02/l3ex02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/l3ex03/l3ex03.iml" filepath="$PROJECT_DIR$/l3ex03/l3ex03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/l3ex04/l3ex04.iml" filepath="$PROJECT_DIR$/l3ex04/l3ex04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/l3ex05/l3ex05.iml" filepath="$PROJECT_DIR$/l3ex05/l3ex05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/l3ex06/l3ex06.iml" filepath="$PROJECT_DIR$/l3ex06/l3ex06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/l3ex07/l3ex07.iml" filepath="$PROJECT_DIR$/l3ex07/l3ex07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/l3ex08/l3ex08.iml" filepath="$PROJECT_DIR$/l3ex08/l3ex08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/l3ex09/l3ex09.iml" filepath="$PROJECT_DIR$/l3ex09/l3ex09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/l3ex1/l3ex1.iml" filepath="$PROJECT_DIR$/l3ex1/l3ex1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/l3ex10/l3ex10.iml" filepath="$PROJECT_DIR$/l3ex10/l3ex10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/lista03.iml" filepath="$PROJECT_DIR$/.idea/lista03.iml" />
+    </modules>
+  </component>
+</project>

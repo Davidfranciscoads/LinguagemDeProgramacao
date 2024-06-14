@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/l2Ex1/l2Ex1.iml" filepath="$PROJECT_DIR$/l2Ex1/l2Ex1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/l2Ex10/l2Ex10.iml" filepath="$PROJECT_DIR$/l2Ex10/l2Ex10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/l2Ex11/l2Ex11.iml" filepath="$PROJECT_DIR$/l2Ex11/l2Ex11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/l2Ex12/l2Ex12.iml" filepath="$PROJECT_DIR$/l2Ex12/l2Ex12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/l2Ex13/l2Ex13.iml" filepath="$PROJECT_DIR$/l2Ex13/l2Ex13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/l2Ex14/l2Ex14.iml" filepath="$PROJECT_DIR$/l2Ex14/l2Ex14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/l2Ex15/l2Ex15.iml" filepath="$PROJECT_DIR$/l2Ex15/l2Ex15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/l2Ex2/l2Ex2.iml" filepath="$PROJECT_DIR$/l2Ex2/l2Ex2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/l2Ex3/l2Ex3.iml" filepath="$PROJECT_DIR$/l2Ex3/l2Ex3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/l2Ex4/l2Ex4.iml" filepath="$PROJECT_DIR$/l2Ex4/l2Ex4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/l2Ex5/l2Ex5.iml" filepath="$PROJECT_DIR$/l2Ex5/l2Ex5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/l2Ex6/l2Ex6.iml" filepath="$PROJECT_DIR$/l2Ex6/l2Ex6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/l2Ex7/l2Ex7.iml" filepath="$PROJECT_DIR$/l2Ex7/l2Ex7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/l2Ex8/l2Ex8.iml" filepath="$PROJECT_DIR$/l2Ex8/l2Ex8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/l2Ex9/l2Ex9.iml" filepath="$PROJECT_DIR$/l2Ex9/l2Ex9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/lista02.iml" filepath="$PROJECT_DIR$/.idea/lista02.iml" />
+    </modules>
+  </component>
+</project>
