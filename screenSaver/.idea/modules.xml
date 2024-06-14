@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ScreenSaver2/ScreenSaver2.iml" filepath="$PROJECT_DIR$/ScreenSaver2/ScreenSaver2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicios/lista01/l1ex01/l1ex01.iml" filepath="$PROJECT_DIR$/exercicios/lista01/l1ex01/l1ex01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicios/lista01/l1ex02/l1ex02.iml" filepath="$PROJECT_DIR$/exercicios/lista01/l1ex02/l1ex02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicios/lista01/l1ex03/l1ex03.iml" filepath="$PROJECT_DIR$/exercicios/lista01/l1ex03/l1ex03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicios/lista01/l1ex04/l1ex04.iml" filepath="$PROJECT_DIR$/exercicios/lista01/l1ex04/l1ex04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicios/lista01/l1ex05/l1ex05.iml" filepath="$PROJECT_DIR$/exercicios/lista01/l1ex05/l1ex05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicios/lista01/l1ex06/l1ex06.iml" filepath="$PROJECT_DIR$/exercicios/lista01/l1ex06/l1ex06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicios/lista01/l1ex07/l1ex07.iml" filepath="$PROJECT_DIR$/exercicios/lista01/l1ex07/l1ex07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicios/lista01/l1ex08/l1ex08.iml" filepath="$PROJECT_DIR$/exercicios/lista01/l1ex08/l1ex08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicios/lista01/l1ex09/l1ex09.iml" filepath="$PROJECT_DIR$/exercicios/lista01/l1ex09/l1ex09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicios/lista01/l1ex10/l1ex10.iml" filepath="$PROJECT_DIR$/exercicios/lista01/l1ex10/l1ex10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicios/lista01/l1ex11/l1ex11.iml" filepath="$PROJECT_DIR$/exercicios/lista01/l1ex11/l1ex11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicios/lista01/l1ex12/l1ex12.iml" filepath="$PROJECT_DIR$/exercicios/lista01/l1ex12/l1ex12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicios/lista01/l1ex13/l1ex13.iml" filepath="$PROJECT_DIR$/exercicios/lista01/l1ex13/l1ex13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicios/lista01/l1ex14/l1ex14.iml" filepath="$PROJECT_DIR$/exercicios/lista01/l1ex14/l1ex14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicios/lista01/l1ex15/l1ex15.iml" filepath="$PROJECT_DIR$/exercicios/lista01/l1ex15/l1ex15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicios/lista01/l1ex16/l1ex16.iml" filepath="$PROJECT_DIR$/exercicios/lista01/l1ex16/l1ex16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicios/lista01/l1ex17/l1ex17.iml" filepath="$PROJECT_DIR$/exercicios/lista01/l1ex17/l1ex17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicios/lista01/l1ex18/l1ex18.iml" filepath="$PROJECT_DIR$/exercicios/lista01/l1ex18/l1ex18.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicios/lista02/l2Ex2/l2Ex2.iml" filepath="$PROJECT_DIR$/exercicios/lista02/l2Ex2/l2Ex2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicios/lista02/l2ex01/l2ex01.iml" filepath="$PROJECT_DIR$/exercicios/lista02/l2ex01/l2ex01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicios/lista03/lista03.iml" filepath="$PROJECT_DIR$/exercicios/lista03/lista03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mudaDeCor/mudaDeCor.iml" filepath="$PROJECT_DIR$/mudaDeCor/mudaDeCor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/screenSaver.iml" filepath="$PROJECT_DIR$/.idea/screenSaver.iml" />
+    </modules>
+  </component>
+</project>
